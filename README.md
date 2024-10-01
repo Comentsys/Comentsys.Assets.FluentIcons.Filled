@@ -4,6 +4,10 @@
 
 ## Change Log
 
+### Version 1.1.0
+
+- Update FilledFluentIcons with GetPathMarkup Method
+
 ### Version 1.0.0
 
 - Initial Release
@@ -38,6 +42,18 @@ Get Asset Resource
 #### Returns
 
 Asset Resource
+
+### GetPathMarkup(type)
+
+Get Asset Resource Path Markup
+
+| Name | Description |
+| ---- | ----------- |
+| type | *Comentsys.Assets.FluentIcons.FluentIconType*<br>Fluent Icon Type |
+
+#### Returns
+
+Asset Resource Path Markup
 
 ## FluentIconType
 
